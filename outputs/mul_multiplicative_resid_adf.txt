@@ -1,0 +1,6 @@
+[Multiplicative Residuals] ADF Test
+Test Statistic: -8.085998
+p-value: 0.000000
+Used Lags: 10
+Number of Observations: 349
+Critical Values:  + crit_str + 

@@ -1,0 +1,6 @@
+[Original Series] ADF Test
+Test Statistic: -0.253391
+p-value: 0.931851
+Used Lags: 5
+Number of Observations: 354
+Critical Values:  + crit_str + 

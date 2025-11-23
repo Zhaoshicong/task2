@@ -1,0 +1,4 @@
+Best ARIMA order: (1, 1, 1)
+Best AIC: 255.641355
+Test R2: -0.024453
+Chosen d by ADF: 1
